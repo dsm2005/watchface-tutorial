@@ -1,0 +1,27 @@
+{
+    "author": "davidsmerrill@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchface1",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "watchface1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "3e1630ca-27f1-4e8b-bc3e-53256ab15653",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
