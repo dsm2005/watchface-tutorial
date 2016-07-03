@@ -12,7 +12,16 @@
         "messageKeys": [],
         "projectType": "native",
         "resources": {
-            "media": []
+            "media": [
+                {
+                    "file": "images/California_Golden_Bears2 pebble round.png",
+                    "name": "Cal_Logo_Round",
+                    "targetPlatforms": [
+                        "chalk"
+                    ],
+                    "type": "png"
+                }
+            ]
         },
         "sdkVersion": "3",
         "targetPlatforms": [
